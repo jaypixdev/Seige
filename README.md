@@ -135,3 +135,7 @@ If you are scared in existential terror at the possibility of creating new life 
 > 👤 <span style="color:green">**@USER**</span> @Revmira how does rust achieve memory safety?
 
 > 📚 <span style="color:blue">**@REVMIRA**</span> Rust uses a safe system of memory management, which both prevents general-memory-corruption errors, and, informally, prevents memory-access errors from "racing". 
+
+
+
+(Also this whole project was really fucking hard to set up. Show some respect please (seriously i beg you))
