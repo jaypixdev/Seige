@@ -123,7 +123,7 @@ You don't need to do this if you already have one.
 
 ## 5. Look at /examples/configs for Agent scripts and write your own 📝
 
-You can create a config file from scratch o rcpy an existing example, tweaking it to your liking.
+You can create a config file from scratch or copy an existing example, tweaking it to your liking.
 
 Then, once you're done writing it, you just do this:
 
