@@ -35,7 +35,7 @@ sudo yum install cmake build-essential pkg-config
 ```bash
 python3 -m venv mybotvenv
 source mybotvenv/bin/activate
-pip3 install git+https://github.com/ckoshka/personate
+pip3 install git+https://github.com/jaypixdev/Seige
 pip3 install -U h11
 ```
 
@@ -123,7 +123,7 @@ You don't need to do this if you already have one.
 
 ## 5. Look at /examples/configs for Agent scripts and write your own 📝
 
-You can create a config file from scratch [here](https://ckoshka.github.io/personate) or copy an existing example, tweaking it to your liking.
+You can create a config file from scratch o rcpy an existing example, tweaking it to your liking.
 
 Then, once you're done writing it, you just do this:
 
